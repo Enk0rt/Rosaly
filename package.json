@@ -1,0 +1,17 @@
+{
+  "name": "rosaly",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "scss": "sass --watch css/scss:css"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "sass": "^1.86.3",
+    "scss": "^0.2.4",
+    "swiper": "^11.2.6"
+  }
+}
